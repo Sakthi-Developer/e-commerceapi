@@ -16,7 +16,7 @@ This project is a simple backend for an e-commerce application built using **Rus
 
 - **Backend**: Rust, Actix Web
 - **Database**: PostgreSQL
-- **ORM**: SQLx
+- **Querying**: Raw SQL queries via `sqlx`
 - **Authentication**: JWT
 
 ## 📦 API Endpoints
